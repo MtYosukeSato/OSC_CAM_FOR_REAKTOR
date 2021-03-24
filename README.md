@@ -1,0 +1,2 @@
+# OSC_CAM_FOR_REAKTOR
+OpenCVで取得した映像をOSC経由でNativeInstruments Reaktor（音楽用ソフトウェア）に送信して表示するプログラム
